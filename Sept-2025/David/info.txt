@@ -1,0 +1,4 @@
+📄 Student ID: S2025004
+👤 Name: David
+🎓 Course: Computer Science
+📅 Semester: Sept-2025

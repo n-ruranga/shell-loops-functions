@@ -1,0 +1,4 @@
+📄 Student ID: S2025002
+👤 Name: Bob
+🎓 Course: Computer Science
+📅 Semester: Sept-2025
